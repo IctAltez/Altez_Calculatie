@@ -1,10 +1,8 @@
 {
-  "title": "Altez Calculatie - Modelanalyse - ICT",
-  "url": "https://ictaltez.github.io/Altez_Calculatie/",
-  "icon": "https://ictaltez.github.io/Altez_Calculatie//Rekenmachine.png",
-  "description": "Analyseert een volledig geladen IFC-model op bruikbare en betrouwbare parameters voor calculatie en maakt slimme groeperingen en selecties.",
+  "title": "Altez Calculatie - Modelanalyse",
+  "url": "https://jonasvanhecke-98.github.io/Altez_Calculatie/modelanalyse.html",
+  "icon": "https://jonasvanhecke-98.github.io/Altez_Calculatie/Rekenmachine.png",
+  "description": "Testversie met automatische IFC-bouwdeelherkenning en slimme groeperingen.",
   "enabled": true,
-  "extensionType": [
-    "3dviewer"
-  ]
+  "extensionType": ["3dviewer"]
 }
