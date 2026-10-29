@@ -1,3 +1,4 @@
 # Altez_Calculatie
 Trimble Connect plugin voor IFC-modelanalyse en calculatie
-#https://ictaltez.github.io/Altez_Calculatie/manifest.json
+
+https://ictaltez.github.io/Altez_Calculatie/manifest.json
